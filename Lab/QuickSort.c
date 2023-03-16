@@ -41,15 +41,4 @@ int main()
     quicksort(a,0,n-1);
     printf("sorted array is:- ");
     printArr(a, n);  
-    /*for(int i=0;i<n;i++)
-    {
-       if(a[i]==a[i+1]){
-            printf("YES");
-            count++;
-            break;
-       }
-    }
-    if(count=0)
-        printf("NO");
-        */
 }
