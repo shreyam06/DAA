@@ -37,7 +37,7 @@ int main()
                 {
                     j++;
                 }
-                VEDANT KASHYAP SECTION : A ROLL NO : 70 else
+                else
                 {
                     break;
                 }
